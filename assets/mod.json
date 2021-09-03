@@ -1,11 +1,11 @@
 {
-  "name": "modtemplate",
-  "displayName": "Template",
-  "author": "[#8738ff[]]Sonnicon[[]]",
-  "description": "Gradle jar Mindustry mod template",
-  "version": "0",
-  "main": "sonnicon.modtemplate.ModTemplate",
-  "minGameVersion": "105",
+  "name": "ftech",
+  "displayName": "Future Tech Mod",
+  "author": "[gold[]]Battery[[]]",
+  "description": "Battery's first mod",
+  "version": "0.1",
+  "main": "ftech.ftech.ftech",
+  "minGameVersion": "125",
   "dependencies": [],
   "hidden": false,
   "java": true

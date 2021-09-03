@@ -1,8 +1,8 @@
-package sonnicon.modtemplate;
+package ftech.ftech;
 
 import mindustry.mod.Mod;
 
-public class ModTemplate extends Mod{
+public class ftech extends Mod{
 
     @Override
     public void init(){
